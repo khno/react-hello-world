@@ -2,20 +2,25 @@
   "name": "myFirstApp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "webpack.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khno/react-hello-world.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khno/react-hello-world/issues"
+  },
+  "homepage": "https://github.com/khno/react-hello-world#readme",
   "dependencies": {
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2"
+    "webpack": "^4.22.0"
   },
   "devDependencies": {
-    "webpack": "^4.22.0",
-    "webpack-cli": "^3.1.2",
-    "webpack-dev-server": "^3.1.9"
+    "webpack-cli": "^3.1.2"
   }
 }
