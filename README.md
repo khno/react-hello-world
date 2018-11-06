@@ -5,4 +5,12 @@
 ```
 npm install
 ```
-然后浏览器直接打开 index.html 文件
+
+## start
+```
+npm start
+```
+## Build
+```
+npm run build
+```
