@@ -4,5 +4,7 @@
 ## how to use
 ```
 npm install
+npm run dev
 ```
+
 然后浏览器直接打开 index.html 文件
